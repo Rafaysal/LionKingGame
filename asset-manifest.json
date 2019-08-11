@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LionKingGame/static/css/main.7366bb8c.chunk.css",
+    "main.css": "/LionKingGame/static/css/main.3e8ad7fe.chunk.css",
     "main.js": "/LionKingGame/static/js/main.760b2359.chunk.js",
     "main.js.map": "/LionKingGame/static/js/main.760b2359.chunk.js.map",
     "runtime~main.js": "/LionKingGame/static/js/runtime~main.31fc2bde.js",
@@ -8,9 +8,9 @@
     "static/js/2.cafca0e8.chunk.js": "/LionKingGame/static/js/2.cafca0e8.chunk.js",
     "static/js/2.cafca0e8.chunk.js.map": "/LionKingGame/static/js/2.cafca0e8.chunk.js.map",
     "index.html": "/LionKingGame/index.html",
-    "precache-manifest.7485d53416beaecdcc11bcd8ba59f2c3.js": "/LionKingGame/precache-manifest.7485d53416beaecdcc11bcd8ba59f2c3.js",
+    "precache-manifest.93310148cbe0c956c4c30537db046d70.js": "/LionKingGame/precache-manifest.93310148cbe0c956c4c30537db046d70.js",
     "service-worker.js": "/LionKingGame/service-worker.js",
-    "static/css/main.7366bb8c.chunk.css.map": "/LionKingGame/static/css/main.7366bb8c.chunk.css.map",
+    "static/css/main.3e8ad7fe.chunk.css.map": "/LionKingGame/static/css/main.3e8ad7fe.chunk.css.map",
     "static/media/(deep-roar)-[AudioTrimmer.com].mp3": "/LionKingGame/static/media/(deep-roar)-[AudioTrimmer.com].fa2462ed.mp3",
     "static/media/I-just-can-t-wait-to-be-king-the-lion-king-lyrics.mp3": "/LionKingGame/static/media/I-just-can-t-wait-to-be-king-the-lion-king-lyrics.9b8c988e.mp3",
     "static/media/Whoah-NiceOne-Studio.wav": "/LionKingGame/static/media/Whoah-NiceOne-Studio.546f17a6.wav",
