@@ -169,7 +169,7 @@ h1{
   z-index: 100;
   position: absolute;
   top:4%;
-  height: 98%;
+  height: 105%;
   width: 96%;
   left: 2%;
   z-index: 900;
@@ -179,7 +179,7 @@ h1{
   position: absolute;
   padding: 2%;
   left: 42%;
-  top: 113%;
+  top: 127%;
   width: 20%;
   border-radius: 10%;
   font-family: 'Roboto Mono', monospace;
@@ -208,7 +208,7 @@ h1{
   position: absolute;
   padding: 2%;
   left: 42%;
-  top: 113%;
+  top: 127%;
   width: 20%;
   border-radius: 10%;
   font-family: 'Roboto Mono', monospace;
