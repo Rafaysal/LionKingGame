@@ -460,7 +460,7 @@ playMusic(){
            
           </div>):(<div>
             
-          <div>HELP! Simba, Pumba, Timon and Shenzi(hyena) are stranded on a rock!</div>
+          <div>HELP! Simba, Timon, Pumba and Shenzi(hyena) are stranded on a rock!</div>
           <br/>
           <div>There is one boat available that can bring them back to safety, however:</div>
           <br/>
@@ -483,7 +483,7 @@ playMusic(){
       <div id = "instruction">
       <div>
             
-            <div>HELP! Simba, Pumba, Timon and Shenzi(hyena) are stranded on a rock!</div>
+            <div>HELP! Simba, Timon, Pumba and Shenzi(hyena) are stranded on a rock!</div>
             <br/>
             <div>There is one boat available that can bring them back to safety, however:</div>
             <br/>
