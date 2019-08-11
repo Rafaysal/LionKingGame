@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LionKingGame/static/css/main.32dff321.chunk.css",
-    "main.js": "/LionKingGame/static/js/main.875e3e37.chunk.js",
-    "main.js.map": "/LionKingGame/static/js/main.875e3e37.chunk.js.map",
+    "main.js": "/LionKingGame/static/js/main.ca95784d.chunk.js",
+    "main.js.map": "/LionKingGame/static/js/main.ca95784d.chunk.js.map",
     "runtime~main.js": "/LionKingGame/static/js/runtime~main.31fc2bde.js",
     "runtime~main.js.map": "/LionKingGame/static/js/runtime~main.31fc2bde.js.map",
     "static/js/2.cafca0e8.chunk.js": "/LionKingGame/static/js/2.cafca0e8.chunk.js",
     "static/js/2.cafca0e8.chunk.js.map": "/LionKingGame/static/js/2.cafca0e8.chunk.js.map",
     "index.html": "/LionKingGame/index.html",
-    "precache-manifest.827ea3b117692c1a55973e1b974cba9f.js": "/LionKingGame/precache-manifest.827ea3b117692c1a55973e1b974cba9f.js",
+    "precache-manifest.5ecc2e1a0e95fa8b4b5f90dd99d7787e.js": "/LionKingGame/precache-manifest.5ecc2e1a0e95fa8b4b5f90dd99d7787e.js",
     "service-worker.js": "/LionKingGame/service-worker.js",
     "static/css/main.32dff321.chunk.css.map": "/LionKingGame/static/css/main.32dff321.chunk.css.map",
     "static/media/(deep-roar)-[AudioTrimmer.com].mp3": "/LionKingGame/static/media/(deep-roar)-[AudioTrimmer.com].fa2462ed.mp3",
