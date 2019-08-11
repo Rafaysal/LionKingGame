@@ -153,6 +153,7 @@ h1{
   z-index: 2000;
   text-align: center;
   
+  
   font-family: 'Roboto Mono', monospace;
   font-weight: bold
 }
@@ -178,7 +179,7 @@ h1{
   position: absolute;
   padding: 2%;
   left: 42%;
-  top: 90%;
+  top: 113%;
   width: 20%;
   border-radius: 10%;
   font-family: 'Roboto Mono', monospace;
@@ -207,7 +208,7 @@ h1{
   position: absolute;
   padding: 2%;
   left: 42%;
-  top: 105%;
+  top: 113%;
   width: 20%;
   border-radius: 10%;
   font-family: 'Roboto Mono', monospace;
