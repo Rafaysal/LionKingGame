@@ -143,8 +143,8 @@ h1{
   display: block;
   background: transparent;
   color: maroon;
-  left: 9%;
-  width: 76%;
+  left: 5.5%;
+  width: 81%;
   height: 45%;
   top: 25%;
   padding: 3%;
@@ -169,15 +169,15 @@ h1{
   position: absolute;
   top:8%;
   height: 94%;
-  width: 90%;
-  left: 6%;
+  width: 96%;
+  left: 2%;
   z-index: 900;
 }
 
 #level1{
   position: absolute;
   padding: 2%;
-  left: 40%;
+  left: 42%;
   top: 90%;
   width: 20%;
   border-radius: 10%;
@@ -206,7 +206,7 @@ h1{
 #level2{
   position: absolute;
   padding: 2%;
-  left: 40%;
+  left: 42%;
   top: 105%;
   width: 20%;
   border-radius: 10%;
