@@ -40,6 +40,7 @@ export class Start extends React.Component{
     this.hideLanding=this.hideLanding.bind(this)
     this.toggleInstructions=this.toggleInstructions.bind(this)
     this.toggleMute=this.toggleMute.bind(this)
+    this.playMusic=this.playMusic.bind(this)
   }
 
   
@@ -399,15 +400,14 @@ goDown(e){
 
 hideLanding(){
   this.setState({rules:false})
+  document.getElementById("my_audio").play();
 }
 
 toggleInstructions(){
     this.setState({instructions: !this.state.instructions})
 }
 
-componentDidMount() {
-    document.getElementById("my_audio").play();
-}
+
 
 toggleMute(){
     
@@ -418,6 +418,10 @@ toggleMute(){
     document.getElementById("my_audio").play();
     this.setState({mute: false})
     }
+}
+
+playMusic(){
+    
 }
 
 

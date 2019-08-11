@@ -1,3 +1,8 @@
+.container{
+  position: relative;
+  padding-bottom: 50%;
+  z-index: 9999;
+}
 .river{
   width:100%;
   position: absolute;
@@ -337,7 +342,7 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   0%{
     background: black;
   }50%{
-    background: darkgreen;
+    background: dark green;
   }100%{
     background: black;
   }
