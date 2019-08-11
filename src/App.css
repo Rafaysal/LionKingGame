@@ -143,10 +143,10 @@ h1{
   display: block;
   background: transparent;
   color: maroon;
-  left: 11%;
-  width: 75%;
+  left: 9%;
+  width: 76%;
   height: 45%;
-  top: 26%;
+  top: 25%;
   padding: 3%;
   border-radius: 10%;
   font-size: 1.2vw;
@@ -159,7 +159,7 @@ h1{
 
 #instruction ul{
   color: white;
-  width: 65%;
+  
   display: block;
   margin: 0 auto
 }
