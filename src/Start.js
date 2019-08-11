@@ -460,10 +460,9 @@ playMusic(){
            
           </div>):(<div>
             
-          <div>HELP! Simba, Timon, Pumba and Shenzi(hyena) are stranded on a rock!</div>
-          <br/>
-          <div>There is one boat available that can bring them back to safety, however:</div>
-          <br/>
+            <div>HELP! Simba, Timon, Pumba and Shenzi are stranded on a rock! 
+            There is a boat available that can bring them back to safety, however:</div>
+            <br/>
           <ul>
             <li>Pumba is the only one who can row the boat</li>
             <li>Only two animals can go on the boat at a time</li>
@@ -483,10 +482,10 @@ playMusic(){
       <div id = "instruction">
       <div>
             
-            <div>HELP! Simba, Timon, Pumba and Shenzi(hyena) are stranded on a rock!</div>
+            <div>HELP! Simba, Timon, Pumba and Shenzi are stranded on a rock! 
+            There is a boat available that can bring them back to safety, however:</div>
             <br/>
-            <div>There is one boat available that can bring them back to safety, however:</div>
-            <br/>
+            
             <ul>
               <li>Pumba is the only one who can row the boat</li>
               <li>Only two animals can go on the boat at a time</li>

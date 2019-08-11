@@ -460,13 +460,12 @@ toggleMute(){
       <img className = "logo" src = {logo}/>
       <div id = "instruction">
             <div>
-            <div>CONGRATS, YOU SAVED EVERYONE!! Unfortunately, Simba and co.
-            have landed themselves in danger once again. This time however, everyone can row the boat
-            and is happy to sit with each other.</div>
-            <br/>
+            <div>CONGRATS, YOU SAVED EVERYONE!! This time however, everyone can row the boat
+            and is happy to sit with each other. The boat won't hold much longer and everyone needs to get across in 17 minutes. However,
+              because of their weight, the boat travels across at different speeds.</div>
+            
             <div>
-              The boat won't hold much longer and everyone needs to get across in 17 minutes. However,
-              because of their weight, the boat travels across at different speeds.
+              
             </div>
             <br/>
             <ul>
