@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/LionKingGame/static/css/main.2c6423b9.chunk.css",
+    "main.js": "/LionKingGame/static/js/main.064546ac.chunk.js",
+    "main.js.map": "/LionKingGame/static/js/main.064546ac.chunk.js.map",
+    "runtime~main.js": "/LionKingGame/static/js/runtime~main.31fc2bde.js",
+    "runtime~main.js.map": "/LionKingGame/static/js/runtime~main.31fc2bde.js.map",
+    "static/js/2.cafca0e8.chunk.js": "/LionKingGame/static/js/2.cafca0e8.chunk.js",
+    "static/js/2.cafca0e8.chunk.js.map": "/LionKingGame/static/js/2.cafca0e8.chunk.js.map",
+    "index.html": "/LionKingGame/index.html",
+    "precache-manifest.12beacf28b7a319aad31418d26e99918.js": "/LionKingGame/precache-manifest.12beacf28b7a319aad31418d26e99918.js",
+    "service-worker.js": "/LionKingGame/service-worker.js",
+    "static/css/main.2c6423b9.chunk.css.map": "/LionKingGame/static/css/main.2c6423b9.chunk.css.map",
+    "static/media/(deep-roar)-[AudioTrimmer.com].mp3": "/LionKingGame/static/media/(deep-roar)-[AudioTrimmer.com].fa2462ed.mp3",
+    "static/media/I-just-can-t-wait-to-be-king-the-lion-king-lyrics.mp3": "/LionKingGame/static/media/I-just-can-t-wait-to-be-king-the-lion-king-lyrics.9b8c988e.mp3",
+    "static/media/Whoah-NiceOne-Studio.wav": "/LionKingGame/static/media/Whoah-NiceOne-Studio.546f17a6.wav",
+    "static/media/bg.gif": "/LionKingGame/static/media/bg.dbcaa984.gif",
+    "static/media/boat.png": "/LionKingGame/static/media/boat.71588ab0.png",
+    "static/media/circle.mp3": "/LionKingGame/static/media/circle.3eb5e67b.mp3",
+    "static/media/hyena.mp3": "/LionKingGame/static/media/hyena.a60a0f20.mp3",
+    "static/media/hyena.png": "/LionKingGame/static/media/hyena.ed204fc8.png",
+    "static/media/logo.png": "/LionKingGame/static/media/logo.d4efb3f6.png",
+    "static/media/plank.png": "/LionKingGame/static/media/plank.22120872.png",
+    "static/media/pumba.wav": "/LionKingGame/static/media/pumba.3ec112cf.wav",
+    "static/media/pumba.png": "/LionKingGame/static/media/pumba.d2f56dff.png",
+    "static/media/scroll.png": "/LionKingGame/static/media/scroll.37ae36cd.png",
+    "static/media/simba.png": "/LionKingGame/static/media/simba.3ab21c3a.png",
+    "static/media/timon.png": "/LionKingGame/static/media/timon.66f9b1b3.png"
+  }
+}
