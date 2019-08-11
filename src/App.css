@@ -1,6 +1,6 @@
 .container{
   position: relative;
-  padding-bottom: 50%;
+  padding-bottom: 51%;
   z-index: 9999;
 }
 .river{
@@ -90,7 +90,7 @@ img{
   border: 4px solid white;
   font-family:'Share Tech Mono', monospace;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.5vw;
   background: #11998e;
   animation: up 3s ease-in infinite;
 }
@@ -116,7 +116,7 @@ img{
   color: white;
   font-family:'Share Tech Mono', monospace;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.5vw;
   border: 4px solid white;
   background: #ED213A;  /* fallback for old browsers */
   animation: down 3s ease-in infinite;
@@ -149,10 +149,10 @@ h1{
   top: 26%;
   padding: 3%;
   border-radius: 10%;
-
+  font-size: 1.2vw;
   z-index: 2000;
   text-align: center;
-  line-height: 1.6rem;
+  line-height: 2vw;
   font-family: 'Roboto Mono', monospace;
   font-weight: bold
 }
@@ -178,11 +178,11 @@ h1{
   position: absolute;
   padding: 2%;
   left: 40%;
-  top: 88%;
+  top: 90%;
   width: 20%;
   border-radius: 10%;
   font-family: 'Roboto Mono', monospace;
-  font-size: 1rem;
+  font-size: 1vw;
   font-weight: bold;
   background: #F7971E;  /* fallback for old browsers */
   animation: level1 3s ease-in infinite;
@@ -211,7 +211,7 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   width: 20%;
   border-radius: 10%;
   font-family: 'Roboto Mono', monospace;
-  font-size: 1rem;
+  font-size: 1vw;
   font-weight: bold;
   color: white;
   background: #F7971E;  /* fallback for old browsers */
@@ -262,12 +262,12 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   left: 80%;
   top: 1%;
   padding: 1%;
-
+  width: 14%;
   color: white;
   border: 4px solid white;
   font-family:'Share Tech Mono', monospace;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.4vw;
   background: black;
   animation: instruction 5s ease-in infinite;
 }
@@ -290,12 +290,12 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   left: 60%;
   top: 1%;
   padding: 1%;
-
+  width: 12%;
   color: white;
   border: 4px solid white;
   font-family:'Share Tech Mono', monospace;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.4vw;
   background: black;
   animation: mute 5s ease-in infinite;
 }
@@ -314,7 +314,7 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   position: absolute;
   top: 30%;
 
-  font-size: 2rem;
+  font-size: 2vw;
   display: block;
   margin: 0 auto
 }
@@ -327,12 +327,12 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   left: 38%;
   top: 1%;
   padding: 1%;
-
+  width: 15%;
   color: white;
   border: 4px solid white;
   font-family:'Share Tech Mono', monospace;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.4vw;
   background: black;
   animation: level 5s ease-in infinite;
 }
@@ -346,4 +346,8 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
   }100%{
     background: black;
   }
+}
+
+.fonts{
+  font-size: 2.5vw;
 }

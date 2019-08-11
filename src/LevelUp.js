@@ -490,7 +490,7 @@ toggleMute(){
       <button onClick = {this.toggleMute} className="mute">Mute music</button>
       <button onClick = {this.props.nextLevel} className="level">Go to Level 1</button>
 
-      <h1>Time: {this.state.time}</h1>
+      <h1 className = "fonts">Time: {this.state.time}</h1>
       <img id = "boat"  src = {boat}/>
       <img id = "timon" onClick = {this.moveTimon} src = {timon}/>
       <img id = "hyena" onClick = {this.moveHyena} src = {hyena}/>
