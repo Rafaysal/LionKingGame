@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d3eabd7e22301acd338e1bf90aad3af",
+    "revision": "8c0204c3737470e7d08056184e8df8af",
     "url": "/LionKingGame/index.html"
   },
   {
-    "revision": "7ba6035d7a8e7c792cc1",
-    "url": "/LionKingGame/static/css/main.64f0c40e.chunk.css"
+    "revision": "f3d35bda2ae2f6ef7743",
+    "url": "/LionKingGame/static/css/main.857fae6c.chunk.css"
   },
   {
     "revision": "198a3da89aa4b4b11caf",
     "url": "/LionKingGame/static/js/2.cafca0e8.chunk.js"
   },
   {
-    "revision": "7ba6035d7a8e7c792cc1",
+    "revision": "f3d35bda2ae2f6ef7743",
     "url": "/LionKingGame/static/js/main.ca95784d.chunk.js"
   },
   {
