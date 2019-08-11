@@ -436,8 +436,7 @@ playMusic(){
       <div id = "instruction">
           
           
-          {this.state.victory?(<div><div>CONGRATS, YOU SAVED EVERYONE!! Unfortunately, Simba and co.
-            have landed themselves in danger once again. This time however, everyone can row the boat
+          {this.state.victory?(<div><div>CONGRATS, YOU SAVED EVERYONE!! This time however, everyone can row the boat
             and is happy to sit with each other.</div>
             <br/>
             <div>
@@ -453,8 +452,7 @@ playMusic(){
             </ul>
             <br/>
             <div>When there are two passengers on the boat, it will only travel
-              as fast as the slower passenger. Thus if Pumba and Timon are on the
-              boat it will get across in 10 minutes!
+              as fast as the slower passenger.
             </div>
             <button id = "level2" onClick = {this.props.nextLevel}>Level 2</button>
            
