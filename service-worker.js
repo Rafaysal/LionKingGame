@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LionKingGame/precache-manifest.5f61c773533437003319daf031092c47.js"
+  "/LionKingGame/precache-manifest.68058e9b661667aa9fc5f41f43bac8b1.js"
 );
 
 self.addEventListener('message', (event) => {
