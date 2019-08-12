@@ -18,6 +18,7 @@ import logo from '/Users/rafaysalahuddin/Portfolio/river/src/images/logo.png'
 import {Link} from 'react-router-dom'
 import {Main} from '/Users/rafaysalahuddin/Portfolio/river/src/Main.js'
 import plank from '/Users/rafaysalahuddin/Portfolio/river/src/images/plank.png'
+import arrow from '/Users/rafaysalahuddin/Portfolio/river/src/images/arrow.png'
 
 export class Start extends React.Component{
   constructor(){
@@ -497,6 +498,9 @@ playMusic(){
 
             </div>
             </div>):undefined}
+    
+    {this.state.clicks===0?(<div><div className = "arrowHead">Click on animals to move them</div>
+  <img className = "arrow" src = {arrow}/></div>):undefined}
 
       <img className = "river" src = {river}/>
       <img className = "plank" src = {plank}/>
