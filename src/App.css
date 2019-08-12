@@ -320,7 +320,7 @@ h1{
   margin: 0 auto
 }
 
-.level{
+#level{
   outline: none;
   cursor: pointer;
   position: absolute;
@@ -343,7 +343,7 @@ h1{
   0%{
     background: black;
   }50%{
-    background: dark green;
+    background: green;
   }100%{
     background: black;
   }

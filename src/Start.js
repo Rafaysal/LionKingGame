@@ -509,7 +509,7 @@ playMusic(){
       <img className = "plank" src = {plank}/>
       <button onClick = {this.toggleMute} className="mute">Mute music</button>
 
-      <button onClick = {this.props.nextLevel} className="level">Go to Level 2</button>
+      <button onClick = {this.props.nextLevel} id="level">Go to Level 2</button>
 
       <h1 className="fonts">Moves: {this.state.clicks}</h1>
       <img id = "boat"  src = {boat}/>
