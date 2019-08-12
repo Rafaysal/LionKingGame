@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9ed0fe2c50cc0c837beb3890eb1335a",
+    "revision": "777a0cbbc9d9f5cc3f2c5ed1d4ff7e84",
     "url": "/LionKingGame/index.html"
   },
   {
-    "revision": "f97217e6bc7565cdc97d",
-    "url": "/LionKingGame/static/css/main.add788f9.chunk.css"
+    "revision": "1dad82462ebf61cf7761",
+    "url": "/LionKingGame/static/css/main.3aabc5d0.chunk.css"
   },
   {
-    "revision": "198a3da89aa4b4b11caf",
-    "url": "/LionKingGame/static/js/2.cafca0e8.chunk.js"
+    "revision": "e815e8b04a4c3a04d8ab",
+    "url": "/LionKingGame/static/js/2.5ff8a0eb.chunk.js"
   },
   {
-    "revision": "f97217e6bc7565cdc97d",
-    "url": "/LionKingGame/static/js/main.ca95784d.chunk.js"
+    "revision": "1dad82462ebf61cf7761",
+    "url": "/LionKingGame/static/js/main.6de0acd7.chunk.js"
   },
   {
     "revision": "17b7bd8509d63c5beb5e",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "546f17a6e5bdebceb3d25d18b4e51d09",
     "url": "/LionKingGame/static/media/Whoah-NiceOne-Studio.546f17a6.wav"
+  },
+  {
+    "revision": "61182bb91a9f999e86ae87fe742717f4",
+    "url": "/LionKingGame/static/media/arrow.61182bb9.png"
   },
   {
     "revision": "dbcaa98466e2e4e7d4735141480a978f",
