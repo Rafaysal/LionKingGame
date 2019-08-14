@@ -61,9 +61,10 @@ img{
 #boat{
   position: absolute;
   width:33%;
-  top: 86%;
+  top: 85%;
   left: 25%;
-  animation:  boat 2s ease-in infinite;
+  animation:  boat 2s ease-in-out infinite;
+  
 
 }
 
@@ -320,7 +321,7 @@ h1{
   margin: 0 auto
 }
 
-#level{
+.level{
   outline: none;
   cursor: pointer;
   position: absolute;

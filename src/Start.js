@@ -29,7 +29,7 @@ export class Start extends React.Component{
     hyenaLeft: 55, hyenaTop: 74, hyenaBoat: false, hyenaRock: true,
     pumbaLeft: 84, pumbaTop: 65, pumbaBoat: false, pumbaRock: true,
     simbaLeft: 74, simbaTop: 67, simbaBoat: false, simbaRock: true,
-    boatTop: 86, boatRock: true, inMotion: false, clicks: 0,
+    boatTop: 85, boatRock: true, inMotion: false, clicks: 0,
     rules: true, victory: false, instructions:false, mute: false}
 
     this.moveHyena=this.moveHyena.bind(this)
@@ -509,7 +509,7 @@ playMusic(){
       <img className = "plank" src = {plank}/>
       <button onClick = {this.toggleMute} className="mute">Mute music</button>
 
-      <button onClick = {this.props.nextLevel} id="level">Go to Level 2</button>
+      <button onClick = {this.props.nextLevel} className="level">Go to Level 2</button>
 
       <h1 className="fonts">Moves: {this.state.clicks}</h1>
       <img id = "boat"  src = {boat}/>
